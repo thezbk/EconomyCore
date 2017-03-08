@@ -12,14 +12,14 @@ Commands that will be in the plugin:
 
 ## Planed methods. (Or api whatever you want to call it)
 
-- .addCredits
-- .delCredits
-- .setCredits
-- .getCredits
+- #addCredits
+- #delCredits
+- #setCredits
+- #getCredits
 
 ## TODO
 
-- Start the project (done)
+- ~~Start the project~~
 - Work on setting up balances (In Progress)
 - Setup chat messages (Not done)
 - More coming soon^(tm)
